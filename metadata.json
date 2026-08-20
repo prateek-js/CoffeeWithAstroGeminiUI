@@ -1,0 +1,6 @@
+{
+  "name": "Coffee with Astro",
+  "description": "Interactive Web and Mobile App Wireframe Studio for the Coffee with Astro prediction engine, featuring Kundli birth charts, daily cosmic coffee brews, transit forecasting, and AI astrological readings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
